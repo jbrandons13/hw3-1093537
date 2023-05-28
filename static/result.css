@@ -1,0 +1,17 @@
+.wrapper{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.wrapper h1{
+    margin: 50px ;
+}
+#home{
+    margin-left: 25px;
+    font-size: 25px;
+}
+
+.content{
+    margin-top: 20px;
+}
